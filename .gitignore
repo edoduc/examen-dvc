@@ -1,2 +1,10 @@
-/venv
+# Environnements virtuels
+/env/
+/venv/
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+
+# Données temporaires
 /clean_data.csv
